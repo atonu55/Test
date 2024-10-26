@@ -1,2 +1,38 @@
-#EXTINF:-1 group-title="Bangla" tvg-logo="logo",Star jalsha
-http://217.20.112.199/starjalshahd/index.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Sananda_TV_logo_%282011%29.png/revision/latest?cb=20210428083412",Sanonda tv
+http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/entree10_16x9.jpg",Enter 10 bangla 
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSec5ryzgYIiHy8pUjDt9KcwXIw_KOSIs2LEw&s ",Ruposhi bangla
+https://cdn3.pishow.tv/live/281/281_0.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRPOFNbbAUCixU8Q8Dde9LJvOscA4fpEISQ&usqp=CAU",Tara bangla cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGFSu5RSONaJgtIYngvKvwBhq9H0xkNBTeg&s",Khushboo bangla
+https://cdn3.pishow.tv/live/283/283_0.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYyPXp8-f1D_FukGKNcZ7oRGSa-XiWdqMee1uTuCpqkxeKQlqGzEta9o&s=10",Sangeet bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tV0uZs1rgUK85_lTq_WMuyf0F2J5bh_tdw&s",Dhoom music 
+https://cdn3.pishow.tv/live/279/279_0.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRwv6ueKXsoYu6g41QY1Z6Qi40ySqmM36fw&s",ABP Anonda
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/cb543d1e786c648f98d43a63cef045a7f9b253fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505c6cdb5f873a5ed7df73ab522d6c6634dac4e71c8ccb6950f6c70a292dad791841e6756db4582f3e99e51303807d927c0618e7402e653d98b146a96852d5f352c92074deb2dc6239635a41995a5fe6be5babef9c02178130f4a17f19c37e07be9d47cad302b886c64fcf438220a21dcc9bed82d012d19b9062fc01af355d0824309dd220c2995be4decd683a98432f2c6a3d7337ba842c1ea205297ef9f1ccb364fb16dd8157ee0a559a33e88400ade811ce28b4e84fdacdf9a82afa9795b63a425dcec1a88bf03473996fedabfad47c72d39646392f410aa949fefe895a1243a4badda11c71214d5f3d72aab056929cfda7e7b1864ba6fdabad10f9104d546a080e8712f7d43d9b61f171a6db0b7a1c6c4aa9885acd82990f61390f908948db534ae088d8ca9f2f2bda6c1e6ded62f252112399673b32b67bb9d21744bd0b26c97531f25330c065f9bb27faee9bd6092eb991930caf2fccbd18ddfb07e63c6f094ce3bc7a08171f3385b626203f7bca49e193f9e0710812e5b898ad971d6b514b7a386baaece3629487c45b7f479029660a10261e800ba40de9095f0f54ad4f8aff5a36e92b2e2fefab3a1d6a6499c6b48be4879215ad1e33ae6b86bfe33fbe7d10ddb94534775b5860f8fb55d9d3/181/640x360_1214400/index.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://yt3.googleusercontent.com/aC3FG7bi2xMMHLCVfrK-8E2DwdiW9xQX-qfeu7WVvqgb43CQ2349b9peG52vhWA6RquUao7emco=s900-c-k-c0x00ffffff-no-rj",News 18 bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/cb543d1e786c648f98d43a63cef045a7f9b253fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505c6cdb5f873a5ed7df73ab522d6c6634dac4e71c8ccb6950f6c70a292dad791841e6756db4582f3e99e51303807d927c0618e7402e653d98b146a96852d5f352c92074deb2dc6239635a41995a5fe6be5babef9c02178130f4a17f19c37e07be9d47cad302b886c64fcd47d522f1459a96ed82d012d19b9062fc01af360f5d7730cfd67ac1cd5fe0889c6c6ccc432f2c6a3d7337ba842c1ea205297ef9f1ccb364fb16dd8157ee0a559a33e88400ade811ce28b4e84fdacdf9a82afa9795b63a425dcec1a88bf03473996fedabfad47c72d39646392f410aa949fefe895a1243a4badda11c71214d5f3d72aab056929cfda7e7b1864ba6fdabad10f9104d546a080e8712f7d43d9b61f171a6db0b7a1c6c4aa9885acd82990f61390f908948db534ae088d8ca9f2f2bda6c1e6ded62f252112399673b32b67bb9d21744bd0b26c97531f25330c065f9bb27faee9bd6092eb991930caf2fccbd18ddfb07e63c6f094ce3bc7a08171f3385b626203f7bca49e193f9e0710812e5b898ad971d6b514b7a386baaece3629487c45b7f479029660a10261e800ba40de9095f0f54ad4f8aff5a36e92b2e2fefab3a1d6a6499c6b48be4879211ad1e33ae29b9bfe33fe84fcf2ad651787f230e9a92c25689d1/185/854x480_899000/index.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpu4y6KGiaq6_YoR6l9hD3mYqaI75KdyhLTorLFieg8naXX4BuK6yxzs&s=10",Tv 9 bangla
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/cb543d1e786c648f98d43a63cef045a7f9b253fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505c6cdb5f873a5ed7df73ab522d6c6634dac4e71c8ccb6950f6c70a292dad791841e6756db4582f3e99e51303807d927c0618e7402e653d98b146a96852d5f352c92074deb2dc6239635a41995a5fe6be5babef9c02178130f4a17f19c37e07be9d47cad302b886c64fcb428f77f740999aed82d012d19b9062fc01af6c515c7630cfd67dc7980ce6d8c93161c5432f2c6a3d7337ba842c1ea205297ef9f1ccb364fb16dd8157ee0a559a33e88400ade811ce28b4e84fdacdf9a82afa9795b63a425dcec1a88bf03473996fedabfad47c72d39646392f410aa949fefe895a1243a4badda11c71214d5f3d72aab056929cfda7e7b1864ba6fdabad10f9104d546a080e8712f7d43d9b61f171a6db0b7a1c6c4aa9885acd82990f61390f908948db534ae088d8ca9f2f2bda6c1e6ded62f252112399673b32b67bb9d21744bd0b26c97531f25330c065f9bb27faee9bd6092eb991930caf2fccbd18ddfb07e63c6f094ce3bc7a08171f3385b626203f7bca49e193f9e0710812e5b898ad971d6b514b7a386baaece3629487c45b7f479029660a10261e800ba40de9095f0f54ad4f8aff5a36e92b2e2fefab3a1d6a6499c6b48be4879311ad1e33ae79b9bfe33fb8f6ae8634faa23b19e0fb29984358c6/195/1280x720_2500000/index.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10",Star jalsha 
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGe167yjB977DD6YjmDqVt9QOb2ZPqkCusAPqLvKqvv14eu3KzPExkLYEg&s=10",Bangla jago
+http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8?v=1
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXs8ekCaDaXiu_K12-oC3pGJc28wlji-8vag&s",Jalsha movies
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2187.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="logo",Amar digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfQOJ6iuEWfBMiUwVK1izVj0dH2XHvc9GFchFhtPBbvPoxkeL3KIgxb8&s=10",Amar bangla 
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony aath
+https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIXeIQ1ugUHUP5go2QadOSpWJqr4lkvLPTg&s",Rongeen Tv
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzru64os1shCdwhA0W--nJVyBYYGm82YXw0tdbETCw1s8HfjotBqavY1tY&s=10",Bangla plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png", Mon Tv
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
